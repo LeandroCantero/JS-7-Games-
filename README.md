@@ -1,3 +1,3 @@
 ﻿# JS-7-Games-
 
-Learn JS by Building 7 Games: https://youtu.be/ec8vSKJuZTk?list=PLvRAWMWpmDYgHKh4eVhOl3QDAwhQoCWoD
+Learn JS by Building 7 Games: https://youtu.be/ec8vSKJuZTk
