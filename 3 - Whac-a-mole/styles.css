@@ -1,0 +1,73 @@
+.grid {
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+.mole {
+    background-image: url(mole.jpg);
+    background-size: cover;
+}
+
+#start-btn{
+    margin: 10px 30px 25px 0;
+    box-shadow: 0px 10px 14px -7px #cde800;
+	background:linear-gradient(to bottom, #ffff00 5%, #d9d900 100%);
+	background-color:#ffff00;
+	border-radius:8px;
+    border: none;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #f7ff00;
+}
+
+#start-btn:hover {
+	background:linear-gradient(to bottom, #d9d900 5%, #ffff00 100%);
+	background-color:#d9d900;
+}
+
+#start-btn:active {
+	position:relative;
+	top:1px;
+}
+
+#reset-btn{
+    margin: 10px 0 25px;
+    box-shadow: 0px 10px 14px -7px #000abf;
+	background:linear-gradient(to bottom, #005bf7 5%, #053199 100%);
+	background-color:#005bf7;
+    border: none;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #0000c9;
+}
+
+#reset-btn:hover {
+	background:linear-gradient(to bottom, #053199 5%, #005bf7 100%);
+	background-color:#053199;
+}
+
+#reset-btn:active {
+	position:relative;
+	top:1px;
+}
